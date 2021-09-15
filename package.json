@@ -10,7 +10,7 @@
     "Jacob Wasilkowski"
   ],
   "dependencies": {
-    "esri-leaflet": "^3.0.2",
+    "esri-leaflet": "git+https://git@github.com/zakjakub/esri-leaflet.git",
     "leaflet": "^1.0.0"
   },
   "devDependencies": {
